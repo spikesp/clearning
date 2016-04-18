@@ -1,1 +1,1 @@
-create a new pointers branch
+The record of C learning
